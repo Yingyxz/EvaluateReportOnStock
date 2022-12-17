@@ -1,5 +1,5 @@
 
-Evaluate the impact of quarterly earnings report on stock price movement
+#Evaluate the impact of quarterly earnings report on stock price movement
 
 • Use liburl to retrieve historical price data from eodhistoricaldata.com: A function 
 retrieves the adjusted close prices for selected Russell 3000 stocks and IWV
